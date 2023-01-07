@@ -8,9 +8,13 @@
 ## Features
 
 > Use your like Ranger File Manager
+> 
 > CD Like GUI 
+> 
 > Get colorful List Command
+> 
 > Show All the files in Dir
+> 
 > Get a clean Cat Command output 
 
 # Put the bashrc file to .bashrc 
