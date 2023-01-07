@@ -61,8 +61,8 @@ source ~/.zsh/themes/asif@akonjee.zsh-theme
 
 
 ##------------------- ALIAS -----------------------##
-alias add='sudo xbps-install'
-alias remove='sudo xbps-remove -R'
+alias add='sudo pacman -S'
+alias remove='sudo pacman -R'
 alias ls='exa -a -G --icons --color=always --group-directories-first' # my preferred listing
 alias la='exa -al -G --icons --color=always --group-directories-first'  # all files and dirs
 alias ll='exa -l -G --icons --color=always --group-directories-first'  # long format
