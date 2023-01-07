@@ -30,8 +30,8 @@ Fellow Bellow For Installation
 cd ~
 git clone https://github.com/naiyan-official/CD-RC 
 cd CD-RC
-ls -a
+ls 
 ```
-- ***_Add CD-RC/.bashrc Code to your .bashrc file_***
-- ***_Add -CD-RC/.inputrc code to /etc/inputrc_***
+- ***_Add CD-RC/bashrc Code to your .bashrc file_***
+- ***_Add -CD-RC/inputrc code to /etc/inputrc_***
  ## Note: Make a backup of your bashrc before Putting codes
