@@ -1,15 +1,5 @@
 <<<<<<< HEAD
 
-=======
-###################################################################
-##       _        _  __      _    _                _             ##
-##      / \   ___(_)/ _|    / \  | | _____  _ __  (_) ___  ___   ##
-##     / _ \ / __| | |_    / _ \ | |/ / _ \| '_ \ | |/ _ \/ _ \  ##
-##    / ___ \\__ \ |  _|  / ___ \|   < (_) | | | || |  __/  __/  ##
-##   /_/   \_\___/_|_|   /_/   \_\_|\_\___/|_| |_|/ |\___|\___|  ##
-##                                              |__/             ##
-###################################################################
-# This is my simple zshrc without oh-my-zsh
 >>>>>>> ea6195f (All Files)
 
 # If not running interactively, don't do anything
@@ -59,8 +49,8 @@ zstyle ':vcs_info:git:*' formats '%B   %b '
 
 ##-------------------- PROPMT THEME ----------------------##
 
-source ~/.zsh/themes/asif@akonjee.zsh-theme
-#source ~/.zsh/themes/asifakonjee.zsh-theme
+source ~/.zsh/themes/custom1.zsh-theme
+#source ~/.zsh/themes/custom2.zsh-theme
 #source ~/.zsh/themes/slash.zsh-theme
 
 #If don't want to use themes then uncomment: But be sure what you are doing!
@@ -94,7 +84,7 @@ alias poweroff='loginctl poweroff'
 
 <<<<<<< HEAD
 =======
-figlet KDE Plasma
+
 >>>>>>> ea6195f (All Files)
 
 neofetch
