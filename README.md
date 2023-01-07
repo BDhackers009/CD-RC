@@ -23,7 +23,7 @@
 - > Clean Interface 
 
 ## Requirements
-- ***Install This Package Before Install***
+> ***Install This Package Before Install***
 
 - > exe or lsd
 - > fzf
