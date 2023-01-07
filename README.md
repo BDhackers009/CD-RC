@@ -29,6 +29,7 @@
 - > fzf
 - > bat
 - > devour
+- > micro
 
 ## Installation 
 
