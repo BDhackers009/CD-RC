@@ -2,7 +2,7 @@
 # _Give My cd Command A Cool Look_
 
 
-# ![alt text] ( /image/Screenshot_20230108_024926.png?raw=true )
+![Screenshot]( /image/Screenshot_20230108_024926.png?raw=true )
 
 
 
