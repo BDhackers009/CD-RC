@@ -32,7 +32,7 @@ git clone https://github.com/naiyan-official/CD-RC
 cd CD-RC
 
 ```
-## ***_Add CD-RC/.bashrc Code to your .bashrc file_***
+- ***_Add CD-RC/.bashrc Code to your .bashrc file_***
  
 # Put the bashrc file to .bashrc 
 # and create inputrc to /etc/inputrc
