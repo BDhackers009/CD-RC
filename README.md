@@ -7,17 +7,17 @@
 
 ## Features
 
-> Use your like Ranger File Manager
+- > Use your like Ranger File Manager
 > 
-> CD Like GUI 
+- > CD Like GUI 
 > 
-> Get colorful List Command
+- > Get colorful List Command
 > 
-> Show All the files in Dir
+- > Show All the files in Dir
 > 
-> Get a clean Cat Command output
+- > Get a clean Cat Command output
 > 
-> Clean Interface 
+- > Clean Interface 
 
 # Put the bashrc file to .bashrc 
 # and create inputrc to /etc/inputrc
