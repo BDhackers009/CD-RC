@@ -1,12 +1,4 @@
-###################################################################
-##       _        _  __      _    _                _             ##
-##      / \   ___(_)/ _|    / \  | | _____  _ __  (_) ___  ___   ##
-##     / _ \ / __| | |_    / _ \ | |/ / _ \| '_ \ | |/ _ \/ _ \  ##
-##    / ___ \\__ \ |  _|  / ___ \|   < (_) | | | || |  __/  __/  ##
-##   /_/   \_\___/_|_|   /_/   \_\_|\_\___/|_| |_|/ |\___|\___|  ##
-##                                              |__/             ##
-###################################################################
-# This is my simple zshrc without oh-my-zsh
+
 
 # If not running interactively, don't do anything
 [[ $- != *i* ]] && return
@@ -88,6 +80,5 @@ alias battery='upower -i /org/freedesktop/UPower/devices/battery_BAT0'
 alias reboot='loginctl reboot'
 alias poweroff='loginctl poweroff'
 
-figlet KDE Plasma
 
 neofetch
