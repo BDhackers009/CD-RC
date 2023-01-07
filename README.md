@@ -5,7 +5,7 @@
 
 ***ScreenShots***
 
-![Screenshot]( [/image/Screenshot_20230108_040816.png](https://github.com/naiyan-official/CD-RC/blob/7f7d943b3e346705ba71c48e89f5f273d077ad54/image/Screenshot_20230108_030342.png)?raw=true)
+![Screenshot]((https://github.com/naiyan-official/CD-RC/blob/7f7d943b3e346705ba71c48e89f5f273d077ad54/image/Screenshot_20230108_030342.png)?raw=true)
 ![Screenshot]( /image/Screenshot_20230108_030342.png?raw=true)
 
 ## Features
