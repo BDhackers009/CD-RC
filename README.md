@@ -1,5 +1,5 @@
 # CD RC 
-## _Give My cd Command A Cool Look_
+## _Give Your Terminal Interface A Cool Look_
 
 # In Bash Shell 
 
