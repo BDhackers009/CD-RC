@@ -30,10 +30,11 @@ Fellow Bellow For Installation
 cd ~
 git clone https://github.com/naiyan-official/CD-RC 
 cd CD-RC
-
+ls -a
 ```
 - ***_Add CD-RC/.bashrc Code to your .bashrc file_***
- 
+- ***_Add -CD-RC/.inputrc code to /etc/inputrc_***
+ ## Note: Make a backup of your bashrc before Putting codes
 # Put the bashrc file to .bashrc 
 # and create inputrc to /etc/inputrc
 # Install bat devour exa etc that needed 
