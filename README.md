@@ -22,6 +22,13 @@
 > 
 - > Clean Interface 
 
+## Requirements
+~~~
+- > exe or lsd
+- > fzf
+- > bat
+- > devour
+~~~
 ## Installation 
 
 Fellow Bellow For Installation
