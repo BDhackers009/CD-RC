@@ -1,0 +1,4 @@
+$include /etc/inputrc
+
+# Bash Keybindings
+"\C-h":"cd ~\n"
