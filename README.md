@@ -2,9 +2,7 @@
 # _Give My cd Command A Cool Look_
 
 
-*** 
-![alt text] (https://github.com/naiyan-official/CD-RC/blob/main/image/Screenshot_20230108_024926.png)
-***
+![alt text] (https://github.com/naiyan-official/CD-RC/blob/main/image/Screenshot_20230108_024926.png?raw=true)
 
 
 
