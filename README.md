@@ -15,7 +15,9 @@
 > 
 > Show All the files in Dir
 > 
-> Get a clean Cat Command output 
+> Get a clean Cat Command output
+> 
+> Clean Interface 
 
 # Put the bashrc file to .bashrc 
 # and create inputrc to /etc/inputrc
