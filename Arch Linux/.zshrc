@@ -62,25 +62,40 @@ source ~/.zsh/themes/custom1.zsh-theme
 #RPROMPT="\$vcs_info_msg_0_ %{$fg[green]%}[%{$fg[green]%}%@ ]"
 
 
-##------------------- ALIAS -----------------------##
-alias add='sudo xbps-install'
-alias remove='sudo xbps-remove -R'
-alias clean='sudo xbps-remove -o'
-alias cc='sudo xbps-remove -O'
-alias up='sudo xbps-install -Su'
-alias restart='xcheckrestart'
-alias search='xbps-query -Rs'
+##------------------- Alias -----------------------##
+
+alias add='sudo pacman -S'
+alias remove='sudo pacman -R'
+alias clean='sudo pacman -Sc'
+alias up='sudo pacman -Syu'
+alias upp='sudo pacman -Syyu'
+alias restart='sudo systemctl reboot'
+alias search='sudo pacman -Ss'
+alias r='source ~/.bash_profile'
+alias del='rm -rf'
+alias c='clear'
+alias untar='tar -zxvf'
 alias ls='exa -a -G --icons --color=always --group-directories-first' # my preferred listing
 alias la='exa -al -G --icons --color=always --group-directories-first'  # all files and dirs
 alias ll='exa -l -G --icons --color=always --group-directories-first'  # long format
-alias gcl='git clone'
 alias ..='cd ..'
+alias cd.2='cd ../..'
+alias cd.3='cd ../../..'
+alias cd.4='cd ../../../..'
+alias cd.5='cd ../../../../..'
+alias cd.6='cd ../../../../../..'
+alias gcl='git clone'
+alias mkcd='foo(){ mkdir -p "$1"; cd "$1" }; foo '
+alias nis='npm install --save'
+alias gac='git add . && git commit -a -m '
 alias cat='bat --theme ansi'
-alias zconf='micro .zshrc'
 alias bconf='micro .bashrc'
+alias zconf='micro .zshrc'
 alias battery='upower -i /org/freedesktop/UPower/devices/battery_BAT0'
-alias reboot='loginctl reboot'
-alias poweroff='loginctl poweroff'
+
+
+##------------------- Alias End  -----------------------##
+
 
 <<<<<<< HEAD
 =======
