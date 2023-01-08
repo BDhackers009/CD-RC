@@ -35,8 +35,8 @@ git clone https://github.com/naiyan-official/CD-RC
 cd CD-RC
 ls 
 ```
-- ***_Add CD-RC/bashrc Code to your .bashrc file_***
-- ***_Add -CD-RC/inputrc code to /etc/inputrc_*** 
+- ***Add CD-RC/bashrc Code to your .bashrc file***
+- ***Add -CD-RC/inputrc code to /etc/inputrc*** 
 
 
  ## Note: Make a backup of your bashrc before Putting codes 
