@@ -18,7 +18,7 @@ This script provides a number of **useful** and **entertaining** features for us
 
 ## 📋 Requirements
 
-- 📦 Install these packages before installing the script: exe or lsd, fzf, bat, devour, micro.
+- 📦 Install these packages before installing the script: exa or lsd, fzf, bat, devour, micro.
 
 ***📸 ScreenShots***
 
