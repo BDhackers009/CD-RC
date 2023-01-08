@@ -124,6 +124,52 @@ ls
 | `cd.4` | Changes to the directory four levels up. | `cd.4` |
 | `cd.5` | Changes to the directory five levels
 
+# Uses for Termux 
+# User manual for alias commands
+
+
+## Usage
+
+To use an alias, simply type the alias command in the terminal followed by any necessary arguments.
+
+For example, to update and upgrade all packages using the `up` alias, you would type:
+
+```
+up
+```
+
+## List of alias commands
+
+* `add`: installs a package
+* `remove`: uninstalls a package
+* `clean`: autoremoves all unnecessary packages
+* `up`: updates and upgrades all packages
+* `upp`: updates and performs a full upgrade of all packages
+* `restart`: reboots the system
+* `search`: searches for a package
+* `r`: sources the `~/.bashrc` file
+* `del`: deletes a file or directory (use with caution!)
+* `c`: clears the terminal screen
+* `untar`: extracts a tar archive
+* `ls`: lists files and directories in a directory
+* `la`: lists all files and directories in a directory
+* `ll`: lists files and directories in a directory in long format
+* `..`: moves up one directory level
+* `cd.2`: moves up two directory levels
+* `cd.3`: moves up three directory levels
+* `cd.4`: moves up four directory levels
+* `cd.5`: moves up five directory levels
+* `cd.6`: moves up six directory levels
+* `gcl`: clones a git repository
+* `mkcd`: creates a new directory and moves into it
+* `nis`: installs a npm package and saves it to the `package.json` file
+* `gac`: adds all changes and commits them with a message
+* `cat`: displays the contents of a file with syntax highlighting
+* `bconf`: opens the `~/.bashrc` file in the `micro` text editor
+* `zconf`: opens the `~/.zshrc` file in the `micro` text editor
+
+`
+----------------------------------------------------------------------`
  
 ### [About](https://github.com/naiyan-official/CD-RC/blob/main/about.md)
 ### [References](https://github.com/naiyan-official/CD-RC/blob/main/ref.md)
