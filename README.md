@@ -98,7 +98,7 @@ ls
 - `zconf`: Opens the `.zshrc` file in the `micro` text editor.
 - `battery`: Shows the battery status of the system.
 
-# Uses For Debian
+# Uses For Debian Based Distros 
 
 ## Alias Commands
 
