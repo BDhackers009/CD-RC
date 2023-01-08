@@ -43,7 +43,7 @@ ls
  
  # Uses In Arch Based Distros 
  
-- This full Sh Shortcut Command based on Alias 
+-  # Full Shortcut based on `alias`
 
 > Aliases are short commands that allow you to execute a longer command or series of commands with a single word. These aliases can save you time and make it easier to use the terminal.
 
