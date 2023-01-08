@@ -98,6 +98,32 @@ ls
 - `zconf`: Opens the `.zshrc` file in the `micro` text editor.
 - `battery`: Shows the battery status of the system.
 
+# Uses For Debian
+
+## Alias Commands
+
+| Alias | Description | Example |
+|-------|-------------|---------|
+| `add` | Installs a package using `apt`. | `add vlc` |
+| `remove` | Removes a package using `apt`. | `remove vlc` |
+| `clean` | Removes unnecessary packages and clears the package cache using `apt autoremove` and `apt clean`. | `clean` |
+| `up` | Updates the package list and upgrades installed packages using `apt update` and `apt upgrade`. | `up` |
+| `upp` | Updates the package list and upgrades installed packages, including changing dependencies using `apt update` and `apt dist-upgrade`. | `upp` |
+| `restart` | Reboots the system using `systemctl reboot`. | `restart` |
+| `search` | Searches for packages using `apt-cache search`. | `search vlc` |
+| `r` | Reloads the `~/.bash_profile` file. | `r` |
+| `del` | Deletes a file or directory and all its contents recursively using `rm -rf`. | `del /path/to/file` |
+| `c` | Clears the terminal screen using `clear`. | `c` |
+| `untar` | Extracts a tar archive using `tar -zxvf`. | `untar /path/to/archive.tar.gz` |
+| `ls` | Lists the contents of a directory using `exa` with the options `-a`, `-G`, `--icons`, `--color=always`, and `--group-directories-first`. | `ls` |
+| `la` | Lists the contents of a directory, including hidden files, using `exa` with the options `-al`, `-G`, `--icons`, `--color=always`, and `--group-directories-first`. | `la` |
+| `ll` | Lists the contents of a directory in long format using `exa` with the options `-l`, `-G`, `--icons`, `--color=always`, and `--group-directories-first`. | `ll` |
+| `..` | Changes to the parent directory. | `cd ..` |
+| `cd.2` | Changes to the directory two levels up. | `cd.2` |
+| `cd.3` | Changes to the directory three levels up. | `cd.3` |
+| `cd.4` | Changes to the directory four levels up. | `cd.4` |
+| `cd.5` | Changes to the directory five levels
+
  
 ### [About](https://github.com/naiyan-official/CD-RC/blob/main/about.md)
 ### [References](https://github.com/naiyan-official/CD-RC/blob/main/ref.md)
