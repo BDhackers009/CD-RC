@@ -40,3 +40,6 @@ ls
 
 
  ## Note: Make a backup of your bashrc before Putting codes 
+ 
+ [About](https://github.com/naiyan-official/CD-RC/blob/main/about.md)
+
