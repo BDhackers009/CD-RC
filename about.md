@@ -16,13 +16,7 @@ Overall, the "CD-RC" tool is designed to make the bash shell more efficient and 
 
 ---
 
-#### 📚 References
 
-
-- "CD-RC" tool page: [CD-RC](https://github.com/naiyan-official/CD-RC)
-
-
----
 
 #### 💻 Developer
 
